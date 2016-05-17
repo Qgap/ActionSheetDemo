@@ -3,4 +3,4 @@ Base on [WCActionSheet](https://github.com/wokalski/WCActionSheet),
 Simple ActionSheet effect , such as WeChat    
     
     
-![demo](../ActionSheetDemo/demo.gif)  
+![demo](https://github.com/Qgap/ActionSheetDemo/raw/master/demo.gif)  
